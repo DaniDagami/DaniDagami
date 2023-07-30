@@ -12,7 +12,7 @@ Hoping one day that I become the best developer.**
 + 🤑 JavaScript;
 
 _**I am currently learning 🕸 web development.
-And I'm learning and some Backend languages, too.**_
+And I'm learning some Backend languages, too.**_
 ## Links 🔗
 <a href="https://www.reddit.com/user/DaniDagami">
   <img width="80px" height="80px" align="center" src="https://www.redditinc.com/assets/images/site/reddit-logo.png">
