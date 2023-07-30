@@ -20,5 +20,5 @@ And I'm learning and some Backend languages, too.
   <img width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png">
 </a>
 <a href="https://discordapp.com/users/723415731852804147">
-    <img width="60px" height="60px" src="https://assets-global.website-files.com/6257adef93…636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg](https://e7.pngegg.com/pngimages/849/652/png-clipart-discord-logo-computer-icons-decal-online-chat-others-blue-game-thumbnail.png)https://e7.pngegg.com/pngimages/849/652/png-clipart-discord-logo-computer-icons-decal-online-chat-others-blue-game-thumbnail.png">
+    <img width="60px" height="60px" src="https://github.com/DaniDagami/DaniDagami/blob/main/discord-mark-blue.svg">
   </a>
