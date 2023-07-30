@@ -17,11 +17,11 @@ And I'm learning and some Backend languages, too.**_
 
 
 <a href="https://www.reddit.com/user/DaniDagami">
-  <img width="100px" height="100px" align="center" src="https://www.redditinc.com/assets/images/site/reddit-logo.png">
+  <img width="80px" height="80px" align="center" src="https://www.redditinc.com/assets/images/site/reddit-logo.png">
 </a>
 <a href="https://www.instagram.com/daniel_boychev/">
-  <img width="100px" height="100px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png">
+  <img width="80px" height="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png">
 </a>
 <a href="https://discordapp.com/users/723415731852804147">
-    <img width="100px" height="100px" align="center" src="https://github.com/DaniDagami/DaniDagami/blob/main/discord-mark-blue.svg">
+    <img width="80px" height="80px" align="center" src="https://github.com/DaniDagami/DaniDagami/blob/main/discord-mark-blue.svg">
   </a>
